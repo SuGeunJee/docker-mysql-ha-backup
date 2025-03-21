@@ -192,6 +192,9 @@ crontab -e
 */10 * * * * /home/ubuntu/mysql-backup.sh >> /home/ubuntu/logs/cron-mysql-backup.log 2>&1
 ```
 
+### 결과
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/9644f1a9-0351-438a-9470-dfeea9980a40" />
+
 
 
 ## 고가용성 구성
